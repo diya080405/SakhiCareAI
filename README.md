@@ -1,4 +1,4 @@
-  SakhiCare AI 🌸
+  SakhiCare AI 
 
    AI-Powered Women's Health Education Assistant
 
