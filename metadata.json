@@ -1,0 +1,6 @@
+{
+  "name": "SakhiCare AI",
+  "description": "Multilingual AI-powered women's health education assistant supporting 10 Indian languages for PCOS awareness, symptom education, and care guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
